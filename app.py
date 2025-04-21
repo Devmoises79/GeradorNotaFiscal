@@ -4,6 +4,7 @@ from reportlab.lib.pagesizes import A4
 from io import BytesIO
 from datetime import datetime
 
+
 st.set_page_config(
     page_title="Gerador de Nota Fiscal",
     page_icon="./img/Logo.png",
